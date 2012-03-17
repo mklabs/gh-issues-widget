@@ -1,5 +1,5 @@
 
-Check out https://mklabs.github.com/gh-issues-widget to see this in
+Check out http://mklabs.github.com/gh-issues-widget to see this in
 action.
 
 
